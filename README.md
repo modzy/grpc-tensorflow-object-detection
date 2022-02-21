@@ -4,7 +4,7 @@
 
 ### gRPC and Modzy Container Specification
 
-This is a gRPC + HTTP/2 implementation of the [Tensorflow's Object Detection Tutorial](https://www.tensorflow.org/hub/tutorials/object_detection) and is derived from Modzy's [gRPC Python Model Template](https://github.com/modzy/grpc-model-template).
+This is a gRPC + HTTP/2 implementation of the [Tensorflow Object Detection Tutorial](https://www.tensorflow.org/hub/tutorials/object_detection) and is derived from Modzy's [gRPC Python Model Template](https://github.com/modzy/grpc-model-template).
 
 ## Installation
 
