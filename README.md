@@ -1,4 +1,4 @@
-# gRPC Packaged Basic Image Classification
+# gRPC Tensorflow Object Detection
 
 ## About this Repository
 
